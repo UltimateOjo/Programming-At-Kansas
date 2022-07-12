@@ -1,0 +1,2 @@
+
+When it comes to coding interview prep for software developers or engineers, sorting algorithms is a topic you cannot afford to miss. Problems based on sorting algorithms regularly feature in tech interviews at FAANG and other tier-1 tech companies. In this article, we’ll help you review the iterative merge sort. Here’s what we will cover:
